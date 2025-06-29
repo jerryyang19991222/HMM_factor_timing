@@ -78,6 +78,7 @@
 | VIX擇時 | 佳   | 不優 |
 
 ## 5. 附錄 - 隱馬可夫模型之權重限制
-
+![hmm附錄一](image/hmm附錄一.png)
+![hmm附錄二](image/hmm附錄二.png)
 
 
